@@ -20,12 +20,14 @@
 <br />
 
 ---
-[![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivek80801&show_icons=true&hide_border=true&theme=chartreuse-dark)]
+
+![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivek80801&show_icons=true&hide_border=true&theme=chartreuse-dark)
 
 ---
 
 <br/>
 
   <img align="left" alt="Vivek's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek80801&layout=compact&theme=chartreuse-dark&hide_border=true" />
+
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vivek80801&repo=vivek80801&theme=chartreuse-dark)](vivek80801)
