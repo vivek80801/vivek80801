@@ -5,7 +5,7 @@
 - I am currently learning Nextjs
 
 ### MY Blogs
-(my blogs)[https://vivek80801.medium.com/]
+[my blogs](https://vivek80801.medium.com/ "go and see blogs")
 
 ### Languages and Tools:
 
