@@ -1,11 +1,8 @@
 # Hello, My name is Vivek.
 
 - I am front-end developer
+- I am fast learner
 - I am self-taught develoer
-- I am currently learning Nextjs
-
-### MY Blogs
-[my blogs](https://vivek80801.medium.com/ "go and see blogs")
 
 ### Languages and Tools:
 
