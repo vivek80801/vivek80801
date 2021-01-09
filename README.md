@@ -36,3 +36,5 @@
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vivek80801&repo=vivek80801&theme=chartreuse-dark)](vivek80801)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vivek80801&theme=dracula&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
