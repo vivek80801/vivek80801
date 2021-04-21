@@ -3,7 +3,7 @@
 - I wanted to be a frontend developer.
 - I can build websites.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vivek80801&label=Profile%20Views)]
+![Profile Views](https://komarev.com/ghpvc/?username=vivek80801&label=Profile%20Views)
 
 ### Languages and Tools:
 
