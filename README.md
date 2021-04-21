@@ -1,8 +1,7 @@
 # Hello, My name is Vivek.
 
-- I am front-end developer
-- I am fast learner
-- I am self-taught develoer
+- I wanted to be a frontend developer.
+- I can build websites.
 
 ### Languages and Tools:
 
