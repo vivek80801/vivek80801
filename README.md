@@ -1,9 +1,15 @@
 # Hello, My name is Vivek.
 
 - I wanted to be a frontend developer.
+- See my all ![projects](https://github.com/vivek80801?tab=repositories)
 - I can build websites.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vivek80801&label=Profile%20Views)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/DhairyaBahl/count.svg" />
+</p>
+
 
 ### Languages and Tools:
 
