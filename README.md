@@ -1,5 +1,7 @@
 # Hello, My name is Vivek.
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6CC8F7&center=true&vCenter=true&lines=Welcome+to+vivek+github+profile)](https://git.io/typing-svg)
+
 - I wanted to be a frontend developer.
 - See my all [projects](https://github.com/vivek80801?tab=repositories)
 - I can build websites.
@@ -9,6 +11,7 @@
 - checkout my [portfolio](https://vivek80801-portfolio.netlify.app/ "Go to vivek portfolio")
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vivek80801&label=Profile%20Views)
+
 
 ### Languages and Tools:
 
@@ -32,7 +35,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M0 24V8.25h16.5V7.5H0V0h24v24h-7.5v-8.25h-9v.75h8.25V24z"/></svg>
 <br />
 <br />
 
