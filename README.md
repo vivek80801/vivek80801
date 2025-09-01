@@ -8,7 +8,7 @@
 - I love open source.
 - I love to help other people.
 - I love to build.
-- checkout my [portfolio](https://vivekkumarweb.com/ "Go to vivek portfolio") and [portfolio](https://vivek80801-portfolio.netlify.app/ "Go to vivek portfolio") 
+- checkout my  profolio with back end fullstack projects [portfolio](https://vivekkumarweb.com/ "Go to vivek portfolio") and with frontend projects [portfolio](https://vivek80801-portfolio.netlify.app/ "Go to vivek portfolio") 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vivek80801&label=Profile%20Views)
 
