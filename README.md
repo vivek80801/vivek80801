@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6CC8F7&center=true&vCenter=true&lines=Welcome+to+vivek+github+profile)](https://git.io/typing-svg)
 
-- I wanted to be a frontend developer.
-- See my all [projects](https://github.com/vivek80801?tab=repositories)
-- I can build websites.
+- I am a full stack developer.
+- See my all open source projects [projects](https://github.com/vivek80801?tab=repositories)
+- I am able to build software with web experience..
 - I love open source.
 - I love to help other people.
 - I love to build.
